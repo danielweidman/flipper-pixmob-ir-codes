@@ -3,6 +3,8 @@ Control your PixMob wristbands at home with a Flipper Zero!
 
 These IR codes were generated based on the reverse engineering work detailed here: [https://github.com/danielweidman/pixmob-ir-reverse-engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering)
 
+https://user-images.githubusercontent.com/44669548/182740762-0dfe8110-97fe-4c29-bb5d-7f023f072f9b.mp4
+
 ### Files
 This repo contains three files of IR codes:
 1. `pixmob_good.ir`: Codes to set bracelets to any common color, and fade in or out of each color
