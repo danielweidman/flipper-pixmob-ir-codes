@@ -1,4 +1,4 @@
-# flipper-pixmob-ir-codes
+# PixMob IR Codes for Flipper Zero
 Control your PixMob wristbands at home with a Flipper Zero
 
 This repo contains Flipper Zero-compatible files that can be used to control PixMob bracelets.
