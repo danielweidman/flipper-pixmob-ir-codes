@@ -11,7 +11,7 @@ This repo contains three files of IR codes:
 
 I reccomend `pixmob_good.ir` as a starting place.
 
-### How to use:
+### How to use
 Copy one of the IR code files (start with `pixmob_good.ir`) into the `infrared` folder of your Flipper Zero SD card. You can do this either with qFlipper or by taking out the SD card, mounting it on your computer, moving the files, and putting the SD card back into the Flipper. 
 From there, look under your "Saved Remotes" in the "Infrared" app for the relevant new remote and try sending some signals!
 
