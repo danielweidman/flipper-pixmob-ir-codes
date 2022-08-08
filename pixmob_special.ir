@@ -1,5 +1,9 @@
 Filetype: IR signals file
 Version: 1
+#
+# IR codes to control PixMob light-up wristbands. This file contains special codes to do things like random colors, enter motion sensitive mode on very old PixMob bracelets, and more. It is easy to mess up bracelets using these codes because some have persistent effects. I don't recommend using this unless you are willing to mess up your bracelet and require a difficult reset. See "PixMob_main.ir" instead.
+# See: https://github.com/danielweidman/flipper-pixmob-ir-codes
+# And: https://github.com/danielweidman/pixmob-ir-reverse-engineering
 # 
 name: OLD_RAINBOW_MOTION
 type: raw

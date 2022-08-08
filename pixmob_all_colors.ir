@@ -1,6 +1,10 @@
 Filetype: IR signals file
 Version: 1
 # 
+# IR codes to control PixMob light-up wristbands. This file has commands to set to all colors with known IR codes as of 8/8/2022 (though it does not include any fade effects).
+# See: https://github.com/danielweidman/flipper-pixmob-ir-codes
+# And: https://github.com/danielweidman/pixmob-ir-reverse-engineering
+# 
 name: RED
 type: raw
 frequency: 38000
